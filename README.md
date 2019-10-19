@@ -1,4 +1,4 @@
-# -WIP-Facebook-Graph-API
+# WIP-Facebook-Graph-API
 
 ## RESOURCES USED:
 https://github.com/ngyingkai/-WIP-Facebook-Graph-API.git
